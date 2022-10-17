@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Brick
+  - Brick2
+  - SlideExpand
+  - SlideShrink
+  - BallExpand
+  - BallSpeedUp
+  - BallSlowDown
+  - LaserPowerUp
+  - Enemy
+  - BirdBullet
+  - Fruit
+  - Star
+  - Trap
+  - Boss
+  - Bullet
+  - MoveLeftBtn
+  - MoveRightBtn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 724341083
+    locked: 0
+  - name: Player
+    uniqueID: 1579908547
+    locked: 0
+  - name: Ball
+    uniqueID: 1173926959
+    locked: 0
+  - name: Brick
+    uniqueID: 2607806345
+    locked: 0
+  - name: PowerUP
+    uniqueID: 3761409081
+    locked: 0

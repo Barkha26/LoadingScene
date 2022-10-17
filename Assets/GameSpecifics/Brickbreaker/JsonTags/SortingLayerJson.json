@@ -1,0 +1,10 @@
+{
+"slayers":[
+  "Default",
+  "BG",
+  "Player",
+  "Ball",
+  "Brick",
+  "PowerUP"
+  ]
+}

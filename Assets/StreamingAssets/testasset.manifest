@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2985869822
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7eeb1fcaca0bf19dfa396ed589e598bc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aaf5f40d0213f0959ea34d4eb2bbb6f9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Square.prefab
+Dependencies: []
